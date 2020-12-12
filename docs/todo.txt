@@ -1,0 +1,5 @@
+
+option n'utiliser qu'une seule fois une tile ?
+choisir quelle camera
+click on tiles to delete them
+documenter ctrl, shift etc
