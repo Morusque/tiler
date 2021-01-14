@@ -1,6 +1,7 @@
 # tiler
 tool to cut pictures into tiles and regenerate them
 
+The .pde file is meant to be opened with the Processing ide.
 
 rough documentation :
 
